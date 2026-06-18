@@ -15,8 +15,8 @@ A simple command-line app to add, manage, and track your tasks. All tasks are sa
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/ellaomoni/Software-Project.git
-cd task-tracker
+https://github.com/ellaomoni/TaskTracker.git
+cd src
 ```
 
 ### 2. Compile the Java files
