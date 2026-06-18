@@ -207,3 +207,7 @@ The app handles common errors gracefully:
 - Providing an invalid ID (e.g. letters instead of a number) prints a warning
 - Using a command without required arguments prints correct usage
 - If `tasks.json` does not exist yet, the app starts with an empty task list instead of crashing
+
+
+## Project URL
+https://github.com/ellaomoni/TaskTracker
