@@ -16,7 +16,7 @@ A simple command-line app to add, manage, and track your tasks. All tasks are sa
 
 ```bash
 https://github.com/ellaomoni/TaskTracker.git
-cd src
+cd TaskTracker
 ```
 
 ### 2. Compile the Java files
