@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Test item",
+    "status": "TODO",
+    "createdAt": "2026-06-08T16:03:49.674903700",
+    "updatedAt": "2026-06-08T16:03:49.674903700"
+  },
+  {
+    "id": 2,
+    "description": "Buy wig.",
+    "status": "TODO",
+    "createdAt": "2026-06-08T16:07:00.313884700",
+    "updatedAt": "2026-06-08T16:07:00.313884700"
+  },
+  {
+    "id": 3,
+    "description": "Wake",
+    "status": "TODO",
+    "createdAt": "2026-06-16T12:40:08.916558800",
+    "updatedAt": "2026-06-16T12:40:08.916558800"
+  }
+]
